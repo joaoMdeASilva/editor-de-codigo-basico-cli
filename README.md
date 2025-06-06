@@ -1,2 +1,5 @@
 # editor-de-codigo-basico-cli
-Este é um projeto em java que busca a praticar e aumentar os meus conhecimentos em Java e lógica de programação
+
+Um editor de código simples. Este projeto tem o objetivo de praticar
+e aumentar os meus conhecimentos em Java, lógica de programação
+e utilizar como portfólio.
